@@ -24,6 +24,4 @@ I am an aspiring **AI developer** on a mission to create cutting-edge AI solutio
 Currently, I am:  
 - Building and deploying **AI models using PyTorch, Transformers, and Scikit-Learn**  
 - Creating interactive web apps with **Streamlit, React, and Django**  
-@@ -42,17 +44,15 @@
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaliprogrammer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
