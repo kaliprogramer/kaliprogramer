@@ -1,154 +1,176 @@
-# Hi 👋, I'm Kaliprogrammer
+# 👋 Hey, I'm Kaliprogrammer!
 
-<h3 align="center">Aspiring AI Engineer | AI/ML Developer | Full-Stack Developer 🇳🇵</h3>
+<h3 align="center">
+  🤖 Aspiring AI Engineer · 🧠 AI/ML Developer · 💻 Full-Stack Developer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/kaliprogramer">
-    <img src="https://img.shields.io/github/followers/kaliprogramer?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kaliprogramer&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%F0%9F%A4%96;Exploring+LLMs+%26+Deep+Learning+%F0%9F%A7%A0;Creating+Real-World+AI+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Working+Software+%E2%9A%A1" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaliprogramer&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/kaliprogramer?style=for-the-badge&color=00D9FF&label=Followers" alt="Followers">
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚡ A Little About Me
 
-I'm an aspiring **AI Engineer from Nepal** passionate about building intelligent systems, AI-powered applications, and real-world software solutions.
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Kaliprogrammer"
+        self.location = "Nepal 🇳🇵"
+        self.current_focus = [
+            "AI Engineering",
+            "LLM Applications",
+            "AI Agents",
+            "Full-Stack Development"
+        ]
+        self.mindset = "Build first. Learn deeply. Improve constantly."
 
-My main interests are:
+    def say_hello(self):
+        return "Turning ideas into intelligent systems! 🚀"
 
-- 🤖 AI Agents and Multi-Agent Systems
-- 🧠 Machine Learning and Deep Learning
-- 🔗 LLM Engineering, RAG and LangGraph
-- 🖥️ Local LLMs and Open-Source AI
-- 🎬 AI-powered Video Processing and Automation
-- 🌐 Full-Stack Application Development
-- 🔐 Cybersecurity and Ethical Hacking
 
-My goal is to become a professional AI Engineer and build intelligent systems that solve complex real-world problems.
+me = AIEngineer()
+print(me.say_hello())
+```
 
-## 💻 Tech Stack & Technologies
+- 🔭 Currently building **Clipty**, an AI-powered video clipping tool.
+- 🧠 Exploring AI agents, LangGraph, RAG and LLM engineering.
+- 🖥️ Experimenting with local AI models using Ollama.
+- 🎬 Interested in video intelligence, speech AI and automation.
+- 🌱 Constantly learning how to build production-ready AI systems.
+- 🎯 Long-term mission: Become a professional AI Engineer.
 
-### 🐍 Programming Languages
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+## 🚀 What I'm Building
 
-### 🤖 AI, Machine Learning & Deep Learning
+<table>
+<tr>
+<td width="50%">
+<h3>🎬 Clipty Mini</h3>
+<p>AI-powered video clipping using local LLMs, transcription and FFmpeg.</p>
+<p><b>Python · Ollama · Pydantic · FFmpeg</b></p>
+</td>
+<td width="50%">
+<h3>🎙️ YouTube Transcriber</h3>
+<p>Video transcription with asynchronous background processing.</p>
+<p><b>FastAPI · Faster-Whisper · Celery · Redis</b></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🍃 Wheat Disease Detection</h3>
+<p>Deep learning image classification using ResNet18.</p>
+<p><b>PyTorch · Computer Vision</b></p>
+</td>
+<td width="50%">
+<h3>🍥 Anime Character Identifier</h3>
+<p>AI-powered image classification for anime characters.</p>
+<p><b>Python · Deep Learning · ResNet18</b></p>
+</td>
+</tr>
+</table>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+---
 
-### 🧠 LLM Engineering & AI Agents
+## 🧠 My Technology Arsenal
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+### 🤖 AI & Machine Learning
 
-### 🎨 Python UI & AI Prototyping
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda" />
+</p>
 
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=qt&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
-### ⚙️ Backend Development & APIs
+### 🧩 LLMs & AI Agents
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,redis,postgres,mysql,sqlite" />
+</p>
+
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 ### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### 🎬 Video Processing & Speech AI
-
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Tools & Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 Clipty Mini
-AI-powered video clipping application that uses local LLMs to identify interesting moments in videos and extract clips using FFmpeg.
-
-### 🎙️ AI Video Transcriber
-A video transcription application using FastAPI, Faster-Whisper, Celery and Redis.
-
-### 🤖 AI Anime Character Identifier
-An image classification project using Deep Learning and ResNet18.
-
-### 🌾 Wheat Disease Detection
-An image classification project using PyTorch and ResNet18 to identify wheat diseases.
-
----
-
-## 🔥 Currently Building & Learning
-
-- Building AI agents using LangChain and LangGraph.
-- Experimenting with local LLMs through Ollama.
-- Developing AI-powered video editing and automation tools.
-- Learning advanced PyTorch and Deep Learning.
-- Exploring RAG systems, structured outputs and tool calling.
-- Building production-ready APIs with Django REST Framework and FastAPI.
-- Developing modern applications with Next.js and React.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaliprogramer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliprogramer&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+### 🎨 Python UI & Prototyping
+
+<p>
+<img src="https://skillicons.dev/icons?i=qt" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaliprogramer&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+### 🎬 Media & Automation
+
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Whisper](https://img.shields.io/badge/Faster--Whisper-Speech%20AI-blueviolet?style=flat-square)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-Video%20Downloading-red?style=flat-square)
+
+### 🛠️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,bash,vscode,postman" />
 </p>
 
 ---
 
-## 🎯 My Goal
-
-Become a professional **AI Engineer**, develop intelligent AI products, contribute to open-source projects, and build AI systems that make a meaningful impact.
+## 📊 My GitHub Universe
 
 <p align="center">
-  <b>Learn. Build. Experiment. Ship. Repeat. 🚀</b>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaliprogramer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliprogramer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=kaliprogramer&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaliprogramer/kaliprogramer/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
+
+---
+
+## 🌌 The Mission
+
+> I don't just want to use AI. I want to understand how it works, build it from the ground up, and create systems that can think, reason, and solve real-world problems.
+
+<p align="center">
+  <b>⚡ THINK · BUILD · BREAK · LEARN · REPEAT ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20by-Curiosity-00D9FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Driven%20by-Innovation-8A2BE2?style=for-the-badge">
 </p>
