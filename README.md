@@ -152,29 +152,6 @@ print(me.say_hello())
   <img width="90%" src="https://streak-stats.demolab.com?user=kaliprogramer&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
----
-
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kaliprogramer/kaliprogramer/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kaliprogramer/kaliprogramer/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/kaliprogramer/kaliprogramer/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
 
 ## 🌌 The Mission
 
